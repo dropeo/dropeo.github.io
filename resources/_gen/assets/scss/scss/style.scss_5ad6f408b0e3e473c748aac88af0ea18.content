@@ -5570,8 +5570,7 @@ ol {
       display: block;
       width: 120px; } }
   .logo img {
-    width: 100%;
-    height: auto; }
+    height: 50px; }
   .logo a {
     display: block;
     width: 100%;

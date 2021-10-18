@@ -1,10 +1,10 @@
 ---
-title: 'About'
+title: 'Sobre'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
-heroHeading: 'About Us'
-heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroHeading: 'Ota Idiomas'
+heroSubHeading: "Conectando culturas e pessoas."
+heroBackground: 'https://upload.wikimedia.org/wikipedia/commons/5/54/Flag-map_of_the_world_%282012%29.png'
 ---
 
 <div>
