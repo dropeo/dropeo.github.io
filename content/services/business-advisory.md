@@ -25,7 +25,7 @@ Aulas de Cinco Idiomas Comparados. Inglês, Francês, Espanhol, Italiano e Alem�
 
 Porque aprender cinco idiomas ao mesmo tempo?
 
-- É desaiador, tendo em vista a  maior ativação cerebral
+- É desafiador, tendo em vista a  maior ativação cerebral
 
 - O aprendizado é mais rápido, pois quantos anos levaria pra aprender um idioma de cada vez?
 
