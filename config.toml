@@ -1,4 +1,4 @@
-baseURL = "/Idiomas"
+baseURL = "/Idiomas/"
 languageCode = "pt-br"
 title = "Ota Idiomas"
 themesDir = "themes"
